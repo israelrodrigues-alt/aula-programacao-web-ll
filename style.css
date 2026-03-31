@@ -1,0 +1,26 @@
+ :root {
+    --cor-primaria: #7c3aed;
+    --cor-fundo-escuro: #0d0d0d;
+    --cor-fundo-medio: #1a1a2e;
+    --cor-fundo-claro: #f8f9fa;
+
+
+    --cor-fundo-medio: #1a1a2e;
+    --cor-fundo-medio: #1a1a2e;
+    --cor-fundo-medio: #1a1a2e;
+    --cor-fundo-medio: #1a1a2e;
+}
+
+html{
+
+    scroll-behavior: smooth;
+}
+
+section{
+    padding: 100px 0;
+}
+
+.navbar{
+    background-color: var(--cor-fundo-escuro);
+
+}
